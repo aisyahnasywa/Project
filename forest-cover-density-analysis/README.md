@@ -40,7 +40,7 @@ The research began by integrating soil, lithology (rock), and relief maps to gen
 - Landscape Ecology Matrix
 
 ## Map Preview
-![FCD Model](forest-cover-density-analysis/maps/FCD-Model.jpg)
+![FCD Model](maps/FCD-Model.jpg)
 
 ## Notes
 Sensitive wildlife occurrence data and confidential ecological information are excluded from this repository to support species protection and data confidentiality.
