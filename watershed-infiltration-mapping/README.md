@@ -1,4 +1,4 @@
-# Forest Cover Density Analysis for Landscape Ecology Mapping
+# Watershed Natural Infiltration Potential Mapping
 
 ## Overview
 This project identifies the natural infiltration potential within the Seputih Watershed. The analysis was conducted by performing a spatial overlay of three primary environmental variables: soil types, slope (topography), and rainfall intensity.
@@ -23,7 +23,7 @@ This research implements the Ministry of Forestry Regulation P.32/2009 (RTkRHL-D
 
 ## Results
 Natural Infiltration Potential Map
-![Natural Infiltration Potential Map](maps/natural-infiltration-potential-map)
+![Natural Infiltration Potential Map](maps/natural-infiltration-potential-map.png)
 
 ## Academic Context
 This project was developed as a collaborative final assignment for the Hydrology Remote Sensing and Watershed Management Laboratory Course at Universitas Gadjah Mada. The research was presented at The 6th International Conference on Environmental Resources Management (ICERM) 2024 and has been formally published. You can access the complete study through the following [link](https://iopscience.iop.org/article/10.1088/1755-1315/1443/1/012001)
