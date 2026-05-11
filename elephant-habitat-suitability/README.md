@@ -32,16 +32,8 @@ The workflow included occurrence data preprocessing, field data collection, envi
 ## Results
 Two selected habitat suitability models with the highest evaluation performance were used for further analysis and interpretation. The resulting habitat suitability models achieved accuracy values of approximately 89% and 90% based on accuracy assessment using independent occurrence data.
 
-## Map Preview
-
-### Model 1
-![Model 1](maps/Elephant_Habitat_Suitability_Model1.jpg)
-
-### Model 2
-![Model 2](maps/Elephant_Habitat_Suitability_Model2.jpg)
-
 ## Notes
-Sensitive wildlife occurrence data and confidential ecological information are excluded from this repository to support species protection and data confidentiality.
+Sensitive wildlife confidential ecological information are excluded and all output maps in this repository are presented in low resolution to support species protection and data confidentiality.
 
 ## Academic Context
 This project was conducted as part of an undergraduate thesis in the Department of Geographic Information Science, Universitas Gadjah Mada. The publication is available through the [university repository](https://etd.repository.ugm.ac.id/penelitian/detail/265981)
