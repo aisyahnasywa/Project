@@ -1,4 +1,3 @@
-//Google earth engine
 //get sentinel-2
 var image = s2.filterBounds(aoi)
   .filterDate('2024-01-01', '2024-12-31')
