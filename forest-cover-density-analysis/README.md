@@ -42,12 +42,9 @@ The research began by integrating soil, lithology (rock), and relief maps to gen
 ## Map Preview
 ![FCD Model](maps/FCD-Model.jpg)
 
-## Notes
-Sensitive wildlife occurrence data and confidential ecological information are excluded from this repository to support species protection and data confidentiality.
-
 ## Academic Context
 This project was conducted by the Vegetation Team under the supervision of faculty professors as part of the 2024 Fieldwork Course, Department of Geographic Information Science, Universitas Gadjah Mada.
 
 ## Author
 Aisyah Nasywa Talitha (GIS and Remote Sensing Enthusiast)
-Big thanks to my teammates; Husein, Anis, Marcel, and Diva for the collaboration during our fieldwork!
+Big thanks to my teammates: Husein, Anis, Marcel, and Diva for the collaboration during our fieldwork!
