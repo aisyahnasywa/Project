@@ -46,4 +46,4 @@ The research began by integrating soil, lithology (rock), and relief maps to gen
 This project was conducted by the Vegetation Team under the supervision of faculty professors as part of the 2024 Fieldwork Course, Department of Geographic Information Science, Universitas Gadjah Mada.
 
 ## Author
-Aisyah Nasywa Talitha (GIS and Remote Sensing Enthusiast)<br>🤝Big thanks to my teammates: Husein, Anis, Marcel, and Diva for the collaboration during our fieldwork!
+Aisyah Nasywa Talitha (GIS and Remote Sensing Enthusiast)<br>🤝Big thanks to my teammates: Husein, Marcel, Anis, Farah, and Diva for the collaboration during our fieldwork!
