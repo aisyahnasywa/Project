@@ -40,7 +40,12 @@ The research began by integrating soil, lithology (rock), and relief maps to gen
 - Landscape Ecology Matrix
 
 ## Map Preview
-![FCD Model](maps/FCD-Model.jpg)
+<p align="center">
+  <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/forest-cover-density-analysis/maps">
+    <img src="./maps/FCD-Model.png" width="45%" />
+  </a>
+  <em>FCD Model</em>
+</p>
 
 ## Academic Context
 This project was conducted by the Vegetation Team under the supervision of faculty professors as part of the 2024 Fieldwork Course, Department of Geographic Information Science, Universitas Gadjah Mada.
