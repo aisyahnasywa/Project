@@ -23,7 +23,13 @@ This project integrates remote sensing and GIS techniques with field-based verif
 - Population density map
 
 ## Map Preview
-![Settlement Quality Map](maps/settlement-quality-map.png)
+<p align="center">
+  <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/settlement-quality-population-mapping/maps">
+    <img src="./maps/settlement-quality-map.png" width="45%" />
+  </a>
+  <br>
+  <em>Settlement Quality</em>
+</p>
 
 ## Academic Context
 This project was developed as a collaborative final assignment for Urban Remote Sensing Survey Laboratory Course at Universitas Gadjah Mada.

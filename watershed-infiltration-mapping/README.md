@@ -22,8 +22,13 @@ Seputih Watershed, Lampung Province, Indonesia
 This research implements the Ministry of Forestry Regulation P.32/2009 (RTkRHL-DAS) framework to analyze infiltration potential using GIS. The methodology integrates 30m DEMNAS for slope and landform-derived soil classification—referencing four 1:250,000 scale geological maps—alongside spatial rainfall analysis using 2023 CHIRPS data and BMKG station records. 
 
 ## Results
-Natural Infiltration Potential Map
-![Natural Infiltration Potential Map](maps/natural-infiltration-potential-map.png)
+<p align="center">
+  <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/watershed-infiltration-mapping/maps">
+    <img src="./maps/natural-infiltration-potential-map.png" width="45%" />
+  </a>
+  <br>
+  <em>Natural Infiltration Potential</em>
+</p>
 
 ## Academic Context
 This project was developed as a collaborative final assignment for the Hydrology Remote Sensing and Watershed Management Laboratory Course at Universitas Gadjah Mada. The research was presented at The 6th International Conference on Environmental Resources Management (ICERM) 2024 and has been formally published. You can access the complete study through the following [link](https://iopscience.iop.org/article/10.1088/1755-1315/1443/1/012001)
