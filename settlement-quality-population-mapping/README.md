@@ -23,7 +23,7 @@ This project integrates remote sensing and GIS techniques with field-based verif
 - Population density map
 
 ## Map Preview
-![Settlemenet Quality Map](maps/settlement-quality-map.png)
+![Settlement Quality Map](maps/settlement-quality-map.png)
 
 ## Academic Context
 This project was developed as a collaborative final assignment for Urban Remote Sensing Survey Laboratory Course at Universitas Gadjah Mada.
