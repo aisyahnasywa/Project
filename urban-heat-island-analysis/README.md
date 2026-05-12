@@ -29,14 +29,14 @@ The analysis was conducted using ENVI software to process multi-temporal Landsat
   <table>
     <tr>
       <td valign="bottom" align="center">
-        <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis">
+        <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis/maps">
           <img src="./maps/jakarta-lst-2018.png" width="350">
         </a>
         <br>
         <sub><b>LST Jakarta 2018</b></sub>
       </td>
       <td valign="bottom" align="center">
-        <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis">
+        <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis/maps">
           <img src="./maps/jakarta-lst-2023.png" width="350">
         </a>
         <br>
