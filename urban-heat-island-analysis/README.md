@@ -23,6 +23,8 @@ The analysis was conducted using ENVI software to process multi-temporal Landsat
 
 ## Map Preview
 
+## Map Preview
+
 <table align="center" border="0">
   <tr>
     <td align="center">
