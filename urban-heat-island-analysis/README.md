@@ -25,26 +25,17 @@ The analysis was conducted using ENVI software to process multi-temporal Landsat
 
 ## Map Preview
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="bottom" align="center">
-        <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis/maps">
-          <img src="./maps/jakarta-lst-2018.png" width="350">
-        </a>
-        <br>
-        <sub><b>LST Jakarta 2018</b></sub>
-      </td>
-      <td valign="bottom" align="center">
-        <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis/maps">
-          <img src="./maps/jakarta-lst-2023.png" width="350">
-        </a>
-        <br>
-        <sub><b>LST Jakarta 2023</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis/maps">
+    <img src="./maps/jakarta-lst-2018.png" width="45%" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis/maps">
+    <img src="./maps/jakarta-lst-2023.png" width="45%" />
+  </a>
+  <br>
+  <em>LST Jakarta 2018 and LST Jakarta 2023</em>
+</p>
 
 ## Academic Context
 This project was developed as a collaborative final assignment for Urban Remote Sensing Survey Laboratory Course at Universitas Gadjah Mada.
