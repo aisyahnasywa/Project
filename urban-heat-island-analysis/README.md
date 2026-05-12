@@ -22,7 +22,8 @@ The analysis was conducted using ENVI software to process multi-temporal Landsat
 - UTFVI Distribution of Jakarta 2018 & 2023
 
 ## Map Preview
-<table align="center">
+
+<table align="center" border="0">
   <tr>
     <td align="center">
       <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/urban-heat-island-analysis">
