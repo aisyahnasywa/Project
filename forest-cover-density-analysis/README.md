@@ -44,6 +44,7 @@ The research began by integrating soil, lithology (rock), and relief maps to gen
   <a href="https://github.com/aisyahnasywa/PROJECT/tree/main/forest-cover-density-analysis/maps">
     <img src="./maps/FCD-Model.jpg" width="45%" />
   </a>
+  <br>
   <em>FCD Model</em>
 </p>
 
